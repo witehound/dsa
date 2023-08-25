@@ -1,3 +1,4 @@
 import containsDuplicate from "./containsDuplicate";
+import isAnagram from "./validAnagram";
 
-export { containsDuplicate };
+export { containsDuplicate, isAnagram };

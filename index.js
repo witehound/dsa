@@ -1,1 +1,1 @@
-
+import { ArrayHash } from "./crack";
